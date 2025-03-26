@@ -1,4 +1,4 @@
-# Calculadora de Área
+<h1 align="center"> Calculadora de Área</h1>
 Este é um simples projeto em Java que permite ao usuário calcular a área de um quadrado ou dde um círculo com base na entrada fornecida.
 
 ## Funcionalidades
